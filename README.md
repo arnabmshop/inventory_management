@@ -49,4 +49,8 @@ This project provides a comprehensive analysis of historic shoe sales data. By u
 
 This project is licensed under the MIT License. 
 
+## Additional
+
+There are two good SQL questions applied every day in inventory management for additional exposure to application of SQL to inventory management.
+
 ---
